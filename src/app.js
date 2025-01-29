@@ -1,5 +1,5 @@
 import express from 'express';
-import routes from './routes';
+import routes from './routes.js';
 import { resolve } from 'node:path';
 import cors from 'cors';
 
