@@ -2,7 +2,7 @@
   "name": "devburger-api",
   "version": "1.0.0",
   "description": "DevBurger API.",
-  "main": "src/server.js",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon"
   },
